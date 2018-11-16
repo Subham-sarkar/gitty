@@ -76,7 +76,7 @@ public class maxAdvA {
 		}
 		
 		
-		System.out.println("advantage of A over B:"+c);
+		
 		
 	}
 
